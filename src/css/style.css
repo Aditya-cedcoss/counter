@@ -1,0 +1,31 @@
+div{
+    margin:auto;
+    text-align: center;
+}
+button{
+    text-align: center;
+    height: 100px;
+    width: 80px;
+    font-size: 45px;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+}
+#minus{
+    margin-right: 20px;
+    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 3rem;
+}
+#add{
+    margin-left: 20px;
+    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 3rem ;
+}
+button:hover{
+    color: azure;
+    background-color: aqua;
+}
+#counter{
+    font-size: 50px;
+    color: black;
+}
