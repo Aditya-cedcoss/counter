@@ -23,7 +23,7 @@ button{
 }
 button:hover{
     color: azure;
-    background-color: aqua;
+    background-color: plum;
 }
 #counter{
     font-size: 50px;
